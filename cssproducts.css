@@ -1,0 +1,62 @@
+body {
+    padding-top: 70px;
+    color: #333;
+    background-color: #fff;
+  }
+  
+  .navbar {
+    background-color: #000;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff;
+  }
+  
+  .jumbotron {
+    padding: 200px 20px;
+    background-image: url(img/halaman3.png);
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .jumbotron h1 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  .jumbotron p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .product-table th, .product-table td {
+    vertical-align: middle;
+  }
+  
+  .product-image {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 30px 0;
+  }
+  
+  .footer h5 {
+    font-weight: bold;
+  }
+  
+  .footer ul li a {
+    color: #fff;
+  }
+  
+  .footer ul li a:hover {
+    text-decoration: none;
+  }
+  
